@@ -102,7 +102,8 @@ You need install.
 * npm
   ```sh
   # Install the dependencies
-  $ npm install or yarn dev
+  $ yarn install
+
   ```
 
 ### Installation
@@ -119,7 +120,7 @@ You need install.
    ```
 4. Install node_modules`
    ```sh
-   yarn init
+   yarn install
    ```
 4. Start the project`
    ```sh
