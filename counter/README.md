@@ -25,7 +25,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/GabrielZanin1997/SimpleThingsWithReact">
-    <img src="../images/react.png" alt="Logo" width="80" height="80">
+    <img src="/images/react.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Concepts From React</h3>
@@ -189,4 +189,4 @@ Project Link: [https://github.com/GabrielZanin1997/SimpleThingsWithReact/tree/ma
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/gabriel-zanin-ab802a206/
-[product-screenshot]: ../images/screenshoot.png
+[product-screenshot]: ../images/print.png
