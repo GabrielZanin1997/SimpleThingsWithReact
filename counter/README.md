@@ -25,7 +25,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/GabrielZanin1997/SimpleThingsWithReact">
-    <img src="images/react.png" alt="Logo" width="150" height="130">
+    <img src="images/react.png" alt="Logo" width="180" height="150">
   </a>
 
   <h3 align="center">Concepts From React</h3>
